@@ -1,0 +1,20 @@
+# generic files to ignore
+.*
+
+# editors
+*~
+*.swp
+*.swo
+*#
+
+# ms-windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# local patches
+/*.patch
+/*.diff
+
+# cscope databases
+cscope.out
